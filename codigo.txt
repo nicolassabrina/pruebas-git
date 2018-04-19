@@ -4,7 +4,7 @@ power()
 int a, b;
 {
 	int n;
-	for (n = 1; b > 0; --b)
+	for (n = 5; b > 0; --b)
 		n *= a;
 	return n;
 }
